@@ -10,7 +10,7 @@ three questions together:
 It was developed on a Windows laptop with an Intel i5-10210U (15 W nominal), 8 GB RAM, no discrete GPU,
 Python 3.15, CPU only. All numbers below come from that machine.
 
-> Status: portfolio project / audit, not a benchmark. Clips are short, and energy is modelled, not measured.
+> Status: Selected portfolio project from Larger projects I did in my current role, not a benchmark. Clips are short, and energy is modelled, not measured.
 > See [Limitations](#limitations).
 
 ## Results
